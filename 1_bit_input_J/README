@@ -1,0 +1,1 @@
+This folder contain notebooks and bitstream files for dSB algorithm using in AXU5EVB-P, as well as scripts and custom IPs that can be used to generate corresponding Vivado projects. 1 bit matrix J (element with 0 or -1) can be sent to FPGA by user.
